@@ -30,7 +30,7 @@ export default function PreorderPage() {
                     <input
                     type="date"
                     value={order_date}
-                    onChange={(e) => setOrderDate(e.target.value)}
+                    onChange={(e) => SetOrderDate(e.target.value)}
                     required
                     />
                 </div>
@@ -39,7 +39,7 @@ export default function PreorderPage() {
                     <input
                     type="text"
                     value={order_by}
-                    onChange={(e) => setOrderBy(e.target.value)}
+                    onChange={(e) => SetOrderBy(e.target.value)}
                     placeholder="Masukkan Nama Pemesan"
                     required
                     />

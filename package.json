@@ -19,5 +19,18 @@
     "@eslint/eslintrc": "^3",
     "eslint": "^9",
     "eslint-config-next": "15.3.1"
-  }
+  },
+  "description": "Link Postman: https://.postman.co/workspace/My-Workspace~7b557f3d-25ed-40f6-86fa-75d7eba00dda/collection/11796895-43d6cec8-2723-4eb8-9929-2a72859e855e?action=share&creator=11796895",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennetyGod/UTS_PWL_2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KennetyGod/UTS_PWL_2025/issues"
+  },
+  "homepage": "https://github.com/KennetyGod/UTS_PWL_2025#readme"
 }
